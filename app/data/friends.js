@@ -9,18 +9,9 @@ var friendArray = [
   {
 
 
-    aboutYouName: "Saima",
-    photoImage: "saima@example.com",
-    question1: "000-000-0000",
-    question2: "saimacool",
-    question3: "saimacool",
-    question4: "saimacool",
-    question5: "saimacool",
-    question6: "saimacool",
-    question7: "saimacool",
-    question8: "saimacool",
-    question9: "saimacool",
-    question10: "saimacool",
+name: "kim",
+photo: "kim@example.com",
+scores: "numbers"
     
     // customerName: "Saima",
     // customerEmail: "saima@example.com",
