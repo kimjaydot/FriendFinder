@@ -1,9 +1,14 @@
 # FriendFinder
-The app will then display the name and picture of the user with the best overall match.
+Sometimes friends are hard to come by. No worries in finding those friends, we have an app for that. This app will then display the name and picture of the user with the best overall match. Just answer serveral questions to see who you get match with!
 
-Application in Progress
+# In need of a Friend?
 
-[FriendFinder Heroku](https://powerful-shore-65966.herokuapp.com/)
+Find out your ideal friend [Here](https://powerful-shore-65966.herokuapp.com/)
 
-# Instructions
-1. Answer the questions to see who you best match with
+# Technologies Used
+* Express
+* Node.js
+* Bootstrap
+* JavaScript
+* HTML
+* CSS
